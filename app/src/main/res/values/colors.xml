@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d4e7e1</color>
+    <color name="colorPrimaryDark">#a3b6ae</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="navBackground">#55d4e7e1</color>
+    <color name="black_overlay">#66000000</color>
+
+    <color name="colorBlack">#FF000000</color>
+
+    <color name="colorComment">#004d40</color>
+    <color name="colorCommentDark">#00251a</color>
+    <color name="colorCommentAccent">#39796b</color>
+</resources>
